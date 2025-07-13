@@ -4,7 +4,11 @@ This Power BI project analyzes the IMDB Top 1000 Movies dataset to explore trend
 
 ## Data Source
 
-- Dataset: imdb_top_1000.csv
+- Dataset: IMDB Top 1000 Movies
+- Original file name: imdb_top_1000.csv
+- Source: [Kaggle - IMDB Top 1000 Movies Dataset](https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows)
+- License: Check the Kaggle dataset page for usage terms.
+
 
 ## Tools Used
 
