@@ -25,7 +25,7 @@ This Power BI project analyzes the IMDB Top 1000 Movies dataset to explore trend
 - Top 10 Most Popular Movies by Number of Votes
 - Top Actors by Number of Movies
 
-## Screenshot
+## Dashboard Screenshot
 
 <img width="1800" height="1003" alt="image" src="https://github.com/user-attachments/assets/ec174692-c918-4429-bd62-030e5f948d67" />
 
